@@ -1,0 +1,26 @@
+/* TEAM */
+CEO & Founder: Mokshad Sakurdeep (Kushal)                         
+Site: uneedwat.com
+Twitter: @kush4l
+Location: Helvetia, Saint Pierre, Mauritius
+
+
+
+[...]
+
+
+
+/* THANKS */
+Name: name or url
+
+
+
+[...]
+
+
+
+/* SITE */
+Last update: 2017/07/04 
+Standards: HTML5, CSS3, Bootstrap 4.0.0-alpha.6, Node.js
+Components: jQuery
+Software: Atom, Git
